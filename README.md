@@ -1,2 +1,2 @@
-# react-porfolio
-My self coded personal website build with React.js
+# react-portfolio
+My self-coded personal website built with React.js
